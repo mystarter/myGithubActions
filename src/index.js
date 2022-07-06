@@ -1,1 +1,1 @@
-console.log("this is develop index");
+console.log("this is mains index");
